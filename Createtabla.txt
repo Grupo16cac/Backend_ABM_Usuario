@@ -1,0 +1,7 @@
+La bbdd se llama tecnocgp
+
+CREATE TABLE IF NOT EXISTS pregistros (
+id INT AUTO_INCREMENT PRIMARY KEY,
+usuario VARCHAR(8) NOT NULL,
+nombre VARCHAR(20) NOT NULL,
+clave VARCHAR(10) NOT NULL );
