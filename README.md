@@ -1,5 +1,5 @@
 El programa corre en forma local, correr el programa app.py ,luego llamar al fronend y se podra trabajar en las altas 
-bajas y modificaciones de usuarios, .  El proposito del mismo  es dar de alta usuarios y asignarles una password.
+bajas y modificaciones de usuarios, mediante API-REST.  El proposito del mismo  es dar de alta usuarios y asignarles una password.
 Se dejo la archivo createtabla.txt para la creacion de la bbdd y su correspondiente tabla.
 
 Aclaracion.
